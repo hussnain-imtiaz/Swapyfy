@@ -1,0 +1,5 @@
+Glasses, New, 89, 4
+Bed, Used, 200, 12
+Chair, Old, 2000, 2
+Books, New, 202, 100
+Vase, Used, 190, 2
